@@ -1,0 +1,8 @@
+cluster;description
+0;2 adults, female,elderly (55+),high income(75K+), homeowner, spendings:  DRUG GM,NUTRITION,at night and morning
+1;likely female with kids, likely homeowner,spendings: GROCERY
+2;has kids,young or middle-aged(45-), above average income,spendings: KIOSK-GAS, NUTRITION,PASTRY,at low level
+3;2 adults,likely high income,spendings : GROCERY,during the day,at high level
+4;likely single, no kids,likely male,young or middle-aged,average income,spendings: during the evening
+5;aged 45+,above average income(50K+),homeowner,spendings: DELI,KIOSK-GAS,DRUG GM, MEAT,PASTRY,PRODUCE, during the day
+6;single,likely kids,likely male, aged 25-50, average income,likely renter, spendings: at low level,during the evening
