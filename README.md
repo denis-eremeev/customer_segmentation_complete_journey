@@ -12,4 +12,6 @@ This repository comprises 3 Jupyter notebooks and input (partly) / output text f
     This produces descriptive analytics based on segmentation results: dynamic of households' number within a cluster, their spendings compared to all spendings, cluster growth within a previous year, its comparison with other cluster perfomance. User can select number of cluster and deparments or select all of them. Voila package may be used to render plotly to web page.
    4) data_chart1.csv - dataset for dashboard made from The Complete Journey dataset.
    5) dashboard_light.ipynb
-      The same as dashboard with inputs: {data_chart1, Segment description}.csv
+     inputs: {data_chart1, Segment description}.csv
+     Light version of dashboard for frequent usage.
+     
