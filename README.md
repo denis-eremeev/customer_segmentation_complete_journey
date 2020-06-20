@@ -14,6 +14,6 @@ This repository comprises 3 Jupyter notebooks and input (partly) / output text f
    5) dashboard_light.ipynb
      inputs: {data_chart1, Segment description}.csv
      Light version of dashboard for frequent usage. 
-     You can access web-version on https://salty-basin-60290.herokuapp.com/
+     You can access web-version on https://customersegmentation-dashboard.herokuapp.com/
      Note: this dashboard is optimized for vertical viewing e.g., to view on your smartphone. 
      
